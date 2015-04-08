@@ -1,3 +1,31 @@
-@import url(http://fonts.googleapis.com/css?family=Poiret+One&subset=cyrillic);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans&subset=cyrillic);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&subset=cyrillic);
+@font-face {
+	font-family: "Raleway";
+	src: url('../fonts/Regular/Raleway-Regular.eot');
+	src: local('вє'), url('../fonts/Regular/Raleway-Regular.woff') format('woff'), url('../fonts/Regular/Raleway-Regular.ttf') format('truetype'), url('../fonts/Regular/Raleway-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Raleway-Light";
+	src: url('../fonts/Light/Raleway-Light.eot');
+	src: local('вє'), url('../fonts/Light/Raleway-Light.woff') format('woff'), url('../fonts/Light/Raleway-Light.ttf') format('truetype'), url('../fonts/Light/Raleway-Light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Raleway-Bold";
+	src: url('../fonts/Bold/Raleway-Bold.eot');
+	src: local('вє'), url('../fonts/Bold/Raleway-Bold.woff') format('woff'), url('../fonts/Bold/Raleway-Bold.ttf') format('truetype'), url('../fonts/Bold/Raleway-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Raleway-ExtraBold";
+	src: url('../fonts/Extrabold/Raleway-ExtraBold.eot');
+	src: local('вє'), url('../fonts/Extrabold/Raleway-ExtraBold.woff') format('woff'), url('../fonts/Extrabold/Raleway-ExtraBold.ttf') format('truetype'), url('../fonts/Extrabold/Raleway-ExtraBold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
